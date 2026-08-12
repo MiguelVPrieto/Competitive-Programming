@@ -3,4 +3,4 @@ project(OBI)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(OBI CSES/rangeupdatesandsums.cpp)
+add_executable(OBI CSES/companyqueriesII.cpp)
