@@ -3,4 +3,4 @@ project(OBI)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(OBI AtCoder/frog1.cpp)
+add_executable(OBI AtCoder/frog2.cpp)
