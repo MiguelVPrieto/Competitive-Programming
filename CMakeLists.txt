@@ -3,4 +3,4 @@ project(OBI)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(OBI AtCoder/knapsack1.cpp)
+add_executable(OBI NEPS/maniadeimpar.cpp)
