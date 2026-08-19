@@ -3,4 +3,4 @@ project(OBI)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(OBI NEPS/saladadefrutas.cpp)
+add_executable(OBI NEPS/triodepalitinhos.cpp)
